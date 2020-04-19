@@ -1,0 +1,8 @@
+RESOURCES:
+	Hero stats:
+		Speed: affects how fast you attack
+		Strenght: how much damage you deal per attack
+		Endurance: HP, do i have to tell more?
+MECHANICS:
+	Training: incrase your stats, so you can fight stronger foes 
+	Fighting: beat them, or they will bet you
